@@ -31,22 +31,22 @@ body {
   width: 320px;
 }
 
+.robot-head-left {
+  position: absolute;
+  width: 125px;
+  left: 30px;
+  bottom: 60px;
+}
+
 .robot-brain {
   position: absolute;
-  right: 137px;
+  right: 130px;
   top: 0;
 }
 
 .robot-head-right {
   position: absolute;
   left: 160px;
-  bottom: 60px;
-}
-
-.robot-head-left {
-  position: absolute;
-  width: 125px;
-  left: 35px;
   bottom: 60px;
 }
 
