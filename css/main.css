@@ -19,6 +19,11 @@ body {
 
 .robot {
   width: 320px;
+  position: relative;
+  height: 100%;
+  margin: 0 auto;
+  top: 30px;
+  right: 27px;
 }
 
 .robot-body {
@@ -26,7 +31,9 @@ body {
 }
 
 .robot-brain {
-  width: 46px;
+  position: absolute;
+  right: 130px;
+  top: 0;
 }
 
 .robot-head-right,
